@@ -1,0 +1,10 @@
+Alice,Math,85
+Bob,English,78
+Alice,Science,90
+Bob,Math,88
+Charlie,History,92
+David,Math,70
+David,Science,65
+Emily,English,100
+Emily,Math,95
+Frank,History,80
